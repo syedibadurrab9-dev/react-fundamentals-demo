@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+✅ Concepts Covered
+
+JSX – return <h2>Hello...</h2>.
+
+Components – Functional (Greeting) & Class (ClassCounter).
+
+Props – Passing name="Syed" into Greeting.
+
+State – useState in FunctionalCounter, this.state in ClassCounter.
+
+Events – onClick, onChange.
+
+Forms – Controlled (ControlledForm) & Uncontrolled (UncontrolledForm).
+
+Conditional Rendering – isLoggedIn ? ... : ....
+
+Lists & Keys – .map() in TodoList.
+
+Composition vs Inheritance – Card wrapping children.
+
+Rendering Techniques – inline, null, multiple children.
